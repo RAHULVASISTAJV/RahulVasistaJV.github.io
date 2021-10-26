@@ -1,0 +1,178 @@
+{
+  "main": {
+    "name": "Rahul Vasista J V",
+    "occupation": "Full Stack Developer",
+    "description": "Looking forward to work and learn in a competitive, challenging environment and be part of a progressive firm offering opportunity for career development and professional growth.",
+    "image": "profilepic.jpg",
+    "bio": "Innovative Full Stack Developer with 3 months experience building and maintaining responsive websites. Proficient in HTML, CSS, JavaScript with Angular and React frameworks.",
+    "contactmessage": "Thank you",
+    "email": "rahulvasista99@gmail.com",
+    "phone": "9620716502",
+    "address": {
+      "street": "J P Nagar",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "zip": "560078"
+    },
+    "website": "#",
+    "resumedownload": "https://drive.google.com/file/d/1wTw-cqbjWsXtx5zr9OUeu7CK4MvGaJOD/view?usp=sharing",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/rahul_vasista",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/rahul-vasista-j-v-79721614b/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/RAHULVASISTAJV",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Full Stack Developer with experience helping companies create and maintain a better code base for reusability. Capable of continuous learning from senior developers, while still nurturing junior developers. Experience in driving projects forward as the development team leader, facilitating projects from concept to launch. Passionate about learning and development, with a desire to apply skills on larger development teams. Eager to tackle more complex problems and continue to find ways to maximize user efficiency.",
+    "education": [
+      {
+        "school": "Jyothy Institute of technology",
+        "degree": "Bachelor of Engineering(BE)",
+        "graduated": "August 2021",
+        "description": "Completed Bachelor of Engineering (Information Science and Engineering) from Jyothy Institute of technology, Bengaluru with a 6.96 CGPA"
+      },
+      {
+        "school": "Vijaya Composite",
+        "degree": "Pre-University",
+        "graduated": "March 2017",
+        "description": " Completed Pre-University (PCMC) from Vijaya Composite, Bengaluru  with a 70.83%"
+      },
+      {
+        "school": "Samved School",
+        "graduated": "April 2015",
+        "description": "Completed SSLC from Samved School, Bengaluru with a 80.96%"
+      }
+   
+    ],
+    "work": [
+      {
+        "company": "Hebbale Labs Pvt Ltd",
+        "title": "Front-End Developer ",
+        "years": "August 2021 - Present",
+        "description": "Working as an Angular Front-End Developer for a client named ‘Yellowtin Incorporation’. The project work was based on creating a Platform, to enable a plan for utilizing cleaner energy in the future. During my stint, I developed and sharpened my skill sets on areas like Angular (Web Framework), Typescript, Java, Basics, Python Basics, React Basics etc., to name a few."
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "Java",
+        "level": "75%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "20%"
+      },
+      {
+        "name": "MYSQL",
+        "level": "50%"
+      },
+      {
+        "name": "Dart",
+        "level": "50%"
+      },
+      {
+        "name": "Angular",
+        "level": "90%"
+      },
+      {
+        "name": "PHP",
+        "level": "60%"
+      }
+    ]
+  },
+  "Certifcations": {
+    "projects": [
+      {
+        "title": "Accenture",
+        "category": "Accenture Discovery Program",
+        "image": "Accenture.jpg",
+        "url": "https://drive.google.com/file/d/1_kM-0Ubw604a4MEtMQVTUnMYQ2Xo_Rfe/view?usp=sharing"
+      },
+      {
+        "title": "Best Cloud Application Project",
+        "category": "Won Best Cloud Application Project presented by Antstack.io at National Level Inter college project",
+        "image": "Best project Jit.jpg",
+        "url": "https://drive.google.com/file/d/1HgPeRcJIQK1VRdJB3pJ3meT52jiTIxJk/view?usp=sharing"
+      },
+      {
+        "title": "Deloitte",
+        "category": "Technology Consulting Virtual Internship.",
+        "image": "Virtual Internship Deloitte.jpg",
+        "url": "https://drive.google.com/file/d/1HhFj7YJ1XjZUII4KyLykiB1OEPdv3mEg/view?usp=sharing"
+      },
+      {
+        "title": "HTML",
+        "category": "Course Completion on Udemy.",
+        "image": "Html5.jpg",
+        "url": "https://drive.google.com/file/d/1qftjae6PNcVPBnQSAn6jw4IsYKiOvNHf/view?usp=sharing"
+      },
+      {
+        "title": "Java",
+        "category": "Course Completion on Udemy.",
+        "image": "Java.jpg",
+        "url": "https://drive.google.com/file/d/1Q94JBLF_sugDTfYZ5f26HenHXy3MLfj_/view?usp=sharing"
+      },
+      {
+        "title": "JavaScript",
+        "category": "Course Completion on Udemy.",
+        "image": "JavaScript.jpg",
+        "url": "https://drive.google.com/file/d/1xjt2Y1iwhqgRmYAhAtrUg1-nMs310TGC/view?usp=sharing"
+      },
+      {
+        "title": "Python",
+        "category": "Course Completion on Udemy.",
+        "image": "Python.jpg",
+        "url": "https://drive.google.com/file/d/1t9d62YuTYsuJ77Zu-mgWpN87WEBPrw6h/view?usp=sharing"
+      },
+      {
+        "title": "Microsoft",
+        "category": "Engineering: Undergraduate & Masters Asia Virtual Experience Program",
+        "image": "Microsoft.jpg",
+        "url": "https://drive.google.com/file/d/1z_dna8TieTh3KBaSx-9uPaVPR9LlHfNK/view?usp=sharing"
+      }
+    ]
+  },
+  "Accolades": {
+    "Accolades": [
+      {
+        "text": "Best Project Award (IEEE) in 2021 - National Level Project Competition.",
+        "user": "Cattle Health Monitoring(Project)"
+      },
+      {
+        "text": "    • Best Project Award (Jyothy Institute of Technology) in 2021 - National Level Project Competition.",
+        "user": "Cattle Health Monitoring(Project)"
+      }
+    ]
+  }
+}
