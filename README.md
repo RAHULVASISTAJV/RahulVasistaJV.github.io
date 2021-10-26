@@ -2,4 +2,4 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This is a react app hosted [here](https://rahulvaisitajv.github.io) 
+This is a react app hosted [here](https://rahulvasistajv.github.io) 
