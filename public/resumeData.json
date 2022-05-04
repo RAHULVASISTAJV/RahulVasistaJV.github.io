@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Rahul Vasista J V",
-    "occupation": "Full Stack Developer",
+    "occupation": "Software Developer",
     "description": "Looking forward to work and learn in a competitive, challenging environment and be part of a progressive firm offering opportunity for career development and professional growth.",
     "image": "profilepic.jpg",
-    "bio": "Innovative Full Stack Developer with 3 months experience building and maintaining responsive websites. Proficient in HTML, CSS, JavaScript with Angular and React frameworks.",
+    "bio": "Innovative Software Developer with experience in building and maintaining responsive websites. Proficient in HTML, CSS, JavaScript with Angular framework and React library.",
     "contactmessage": "Thank you",
     "email": "rahulvasista99@gmail.com",
     "phone": "9620716502",
@@ -15,7 +15,7 @@
       "zip": "560078"
     },
     "website": "#",
-    "resumedownload": "https://drive.google.com/file/d/1wTw-cqbjWsXtx5zr9OUeu7CK4MvGaJOD/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1gdLjbIUsWN7oJpNBelJcmGgGXAPoT8nL/view?usp=sharing",
     "social": [
       {
         "name": "twitter",
@@ -35,13 +35,13 @@
     ]
   },
   "resume": {
-    "skillmessage": "Full Stack Developer with experience helping companies create and maintain a better code base for reusability. Capable of continuous learning from senior developers, while still nurturing junior developers. Experience in driving projects forward as the development team leader, facilitating projects from concept to launch. Passionate about learning and development, with a desire to apply skills on larger development teams. Eager to tackle more complex problems and continue to find ways to maximize user efficiency.",
+    "skillmessage": "Software Developer with experience helping companies create and maintain a better code base for reusability. Capable of continuous learning from senior developers, while still nurturing junior developers. Experience in driving projects forward as the development team leader, facilitating projects from concept to launch. Passionate about learning and development, with a desire to apply skills on larger development teams. Eager to tackle more complex problems and continue to find ways to maximize user efficiency.",
     "education": [
       {
         "school": "Jyothy Institute of technology",
         "degree": "Bachelor of Engineering(BE)",
         "graduated": "August 2021",
-        "description": "Completed Bachelor of Engineering (Information Science and Engineering) from Jyothy Institute of technology, Bengaluru with a 6.96 CGPA"
+        "description": "Completed Bachelor of Engineering (Information Science and Engineering) from Jyothy Institute of technology, Bengaluru with a 7 CGPA"
       },
       {
         "school": "Vijaya Composite",
@@ -54,14 +54,13 @@
         "graduated": "April 2015",
         "description": "Completed SSLC from Samved School, Bengaluru with a 80.96%"
       }
-   
     ],
     "work": [
       {
         "company": "Hebbale Labs Pvt Ltd",
-        "title": "Front-End Developer ",
+        "title": "Software Developer",
         "years": "August 2021 - Present",
-        "description": "Working as an Angular Front-End Developer for a client named ‘Yellowtin Incorporation’. The project work was based on creating a Platform, to enable a plan for utilizing cleaner energy in the future. During my stint, I developed and sharpened my skill sets on areas like Angular (Web Framework), Typescript, Java, Basics, Python Basics, React Basics etc., to name a few."
+        "description": "Working as a Software Developer.Worked on Angular framework and React library.The project was based on Privacy and Security."
       }
     ],
     "skills": [
