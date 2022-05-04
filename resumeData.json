@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Rahul Vasista J V",
-    "occupation": "Front-end Developer",
+    "occupation": "Software Developer",
     "description": "Looking forward to work and learn in a competitive, challenging environment and be part of a progressive firm offering opportunity for career development and professional growth.",
     "image": "profilepic.jpg",
-    "bio": "Innovative Front-end Developer with experience in building and maintaining responsive websites. Proficient in HTML, CSS, JavaScript with Angular framework and React library.",
+    "bio": "Innovative Software Developer with experience in building and maintaining responsive websites. Proficient in HTML, CSS, JavaScript with Angular framework and React library.",
     "contactmessage": "Thank you",
     "email": "rahulvasista99@gmail.com",
     "phone": "9620716502",
@@ -15,7 +15,7 @@
       "zip": "560078"
     },
     "website": "#",
-    "resumedownload": "https://drive.google.com/file/d/1uYwIO2f1ZtNmOCuhKl1gZoHGIVGavQO4/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1gdLjbIUsWN7oJpNBelJcmGgGXAPoT8nL/view?usp=sharing",
     "social": [
       {
         "name": "twitter",
@@ -35,7 +35,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Front-end Developer with experience helping companies create and maintain a better code base for reusability. Capable of continuous learning from senior developers, while still nurturing junior developers. Experience in driving projects forward as the development team leader, facilitating projects from concept to launch. Passionate about learning and development, with a desire to apply skills on larger development teams. Eager to tackle more complex problems and continue to find ways to maximize user efficiency.",
+    "skillmessage": "Software Developer with experience helping companies create and maintain a better code base for reusability. Capable of continuous learning from senior developers, while still nurturing junior developers. Experience in driving projects forward as the development team leader, facilitating projects from concept to launch. Passionate about learning and development, with a desire to apply skills on larger development teams. Eager to tackle more complex problems and continue to find ways to maximize user efficiency.",
     "education": [
       {
         "school": "Jyothy Institute of technology",
@@ -58,9 +58,9 @@
     "work": [
       {
         "company": "Hebbale Labs Pvt Ltd",
-        "title": "Front-End Developer ",
+        "title": "Software Developer",
         "years": "August 2021 - Present",
-        "description": "Working as a Front-End Developer.Worked on Angular framework and React library.The project was based on Privacy and Security."
+        "description": "Working as a Software Developer.Worked on Angular framework and React library.The project was based on Privacy and Security."
       }
     ],
     "skills": [
